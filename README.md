@@ -6,4 +6,4 @@ This is the jupyter notebook file that goes along with [this blog post](https://
 
 * pgsql2cloudant
 
-This RQL file comes is the source for this post about moving data from [postgreSQL to Cloudant]
+This RQL file comes is the source for this post about moving data from [postgreSQL to Cloudant](https://glagardere.medium.com/bulk-loading-postgresql-records-to-cloudant-with-rql-dceeae84f4ed)
